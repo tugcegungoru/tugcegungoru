@@ -21,7 +21,11 @@
 <p align="center">
   📫 How to reach me: <a href='mailto:tucegungoru@gmail.com'>tucegungoru@gmail.com</a>
 </p>
-
+<p align="center">
+    <a href="https://github.com/tugcegungoru/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=tugcegungoru">
+    </a>
+</p>
 ## Education
 
 - 📖 **Computer Engineering**\
