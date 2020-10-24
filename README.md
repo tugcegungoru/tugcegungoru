@@ -2,7 +2,7 @@
 
 
 
-## 📌 GitHub Stats and Top Languages
+## 📌 GitHub Stats and Contact
 
 <p align="center">
     <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-g%C3%BCng%C3%B6r%C3%BC-60a832144/">
