@@ -26,6 +26,7 @@
         <img src="https://komarev.com/ghpvc/?username=tugcegungoru">
     </a>
 </p>
+
 ## Education
 
 - 📖 **Computer Engineering**\
