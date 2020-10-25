@@ -27,7 +27,7 @@
     </a>
 </p>
 
-## Education
+## 🎓 Education
 
 - 📖 **Computer Engineering**\
 📆 2015 - 2020\
